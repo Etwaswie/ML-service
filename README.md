@@ -25,11 +25,15 @@
 ## Запуск сервиса
 В папке проекта запустить PowerShell и выполнить команды:
 - `
-docker-compose built
+docker-compose build
 `
  
 - `
 docker-compose up
+`
+Сервис будет доступен на 3000 порту:
+- `
+http://localhost:3000
 `
 
 ## Использованные технологии:
