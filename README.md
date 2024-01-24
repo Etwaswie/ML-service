@@ -24,11 +24,11 @@
 
 ## Запуск сервиса
 В папке проекта запустить PowerShell и выполнить команды:
-`
+- `
 docker-compose built
 `
  
-`
+- `
 docker-compose up
 `
 
