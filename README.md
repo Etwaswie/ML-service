@@ -43,11 +43,11 @@ http://localhost:8000/docs
 `
 
 ## Сервис в картинках
-Авторизация: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/48f10cc8-e05c-434d-b546-54ad99bc3c76)
-Регистрация: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/7e71120e-e9d0-4696-8992-6b9cae8416d1)
-ЛК администратора: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/301af62c-1f18-44c6-8d80-977efef0b1c9)
-Страница с доступными моделями: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/abd913e7-a5a0-45c0-975f-12ca0c74b1ae)
-Покупка использований модели пользователем: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/4b969589-d772-41e9-bfbf-065bc3490cf5)
+- Авторизация: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/48f10cc8-e05c-434d-b546-54ad99bc3c76)
+- Регистрация: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/7e71120e-e9d0-4696-8992-6b9cae8416d1)
+- ЛК администратора: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/301af62c-1f18-44c6-8d80-977efef0b1c9)
+- Страница с доступными моделями: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/abd913e7-a5a0-45c0-975f-12ca0c74b1ae)
+- Покупка использований модели пользователем: ![image](https://github.com/Etwaswie/ML-service/assets/48685561/4b969589-d772-41e9-bfbf-065bc3490cf5)
 
 ## Использованные технологии:
 - Для предварительного анализа данных использовались библиотеки pandas и numpy, для визуализации seaborn и matplotlib, для обучения моделей библиотека sklearn
