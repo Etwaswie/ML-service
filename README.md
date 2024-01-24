@@ -31,6 +31,7 @@ docker-compose build
 - `
 docker-compose up
 `
+
 Сервис будет доступен на 3000 порту:
 - `
 http://localhost:3000
