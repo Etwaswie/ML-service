@@ -37,6 +37,12 @@ docker-compose up
 http://localhost:3000
 `
 
+Swagger доступен по адресу
+`
+http://localhost:8000/docs
+`
+
+
 ## Использованные технологии:
 - Для предварительного анализа данных использовались библиотеки pandas и numpy, для визуализации seaborn и matplotlib, для обучения моделей библиотека sklearn
 - Бэкенд: веб-фреймворк FastAPI, uvicorn
