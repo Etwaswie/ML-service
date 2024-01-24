@@ -22,6 +22,12 @@
 `
 исходные данные для анализа.
 
+## Запуск сервиса
+В папке проекта запустить PowerShell и выполнить команды:
+`
+docker-compose built
+docker-compose up
+`
 
 ## Использованные технологии:
 - Для предварительного анализа данных использовались библиотеки pandas и numpy, для визуализации seaborn и matplotlib, для обучения моделей библиотека sklearn
@@ -29,5 +35,5 @@
 - Фронтенд: React, фреймворк Bootstrap
 - Для работы с СУБД SQLite использовалась библиотека SQLAlchemy
 
-  ## Схема базы данных
-  ![image](https://github.com/Etwaswie/ML-service/assets/48685561/f5436990-fc69-4fa2-8e7e-57dd92d12be0)
+## Схема базы данных
+![image](https://github.com/Etwaswie/ML-service/assets/48685561/f5436990-fc69-4fa2-8e7e-57dd92d12be0)
